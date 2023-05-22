@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'MeanStackTutorial';
+  // // title = 'MeanStackTutorial';
+  // receivedPosts: Post[] = [];
+
+  // onPostAdded(post: Post) {
+  //   this.receivedPosts.push(post);
+  // }
 }
